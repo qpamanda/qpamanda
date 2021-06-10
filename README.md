@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @qpamanda
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Email
+- 👋 Hi, I’m Amanda.
+- 👀 I major in Software Engineering in Poly and Uni and have worked as a developer and systems analyst prior to being a SAHM.
+- 🌱 I still like programming thus I’m currently learning Golang.
+- 📫 You can reach me @ qpapple@yahoo.com
 
 <!---
 qpamanda/qpamanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
