@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Amanda.
-- 👀 I major in Software Engineering in Poly and Uni and have worked as a developer and systems analyst prior to being a SAHM.
-- 🌱 I enjoy solving problems and doing programming thus I’m currently learning Golang.
+- 👋 Hi, I’m Amanda. I enjoy solving problems and doing programming.
+- 👀 I major in Software Engineering in Poly & Uni and have worked as a developer and systems analyst prior to being a SAHM.
+- 🌱 Currently I'm learning Golang.
 - 📫 You can reach me @ qpapple@yahoo.com
 
 <!---
